@@ -1,0 +1,12 @@
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\stroredata\R$mipmap$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\stroredata\R$string$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$layout$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\stroredata\R$styleable$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\stroredata\R$id$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\stroredata\R$layout$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\stroredata\R$integer$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\stroredata\LoginActivity$1$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\stroredata\R$style$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\stroredata\LoginActivity$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\StroreDATA\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
